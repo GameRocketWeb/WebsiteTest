@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b3cf7bde.css",
+    "main.js": "./static/js/main.15309bb1.js",
+    "static/js/787.e890d716.chunk.js": "./static/js/787.e890d716.chunk.js",
+    "static/media/blueplanet.png": "./static/media/blueplanet.3c6575f6a5b15305b1a7.png",
+    "index.html": "./index.html",
+    "main.b3cf7bde.css.map": "./static/css/main.b3cf7bde.css.map",
+    "main.15309bb1.js.map": "./static/js/main.15309bb1.js.map",
+    "787.e890d716.chunk.js.map": "./static/js/787.e890d716.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3cf7bde.css",
+    "static/js/main.15309bb1.js"
+  ]
+}
